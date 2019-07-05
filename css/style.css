@@ -507,7 +507,7 @@ h1{
 }
 .text-news{
 	font-size: 24px;
-	margin-left: 71.5px;
+	margin-left: 145px;
 }
 .box-bottom{
 	    -ms-flex-direction: column;
@@ -525,11 +525,11 @@ h1{
 }
 .bottom1{
 	width: 250px;
-	margin-left: 75.3px;
-	padding-right: 548px;
+	margin-left: 0;
+	padding-right: 405px;
 }
 .bottom2{
-	margin-right: 75.3px;
+	margin-right: 0;
 }
 .p9{
 	font-size: 12px;
