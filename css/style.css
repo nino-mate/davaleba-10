@@ -734,27 +734,24 @@ h1{
 
 
 
-
-
 .section6{
-	max-width: 1024px;
+	max-width: 480px;
 }
 .bottom1{
-	width: 250px;
+	width: 90px;
 	margin-left: 0;
-	padding-right: 405px;
+	padding-right: 300px;
 }
 .bottom2{
 	margin-right: 0;
 }
 .p9{
-	font-size: 12px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	font-size: 6px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 body{
 	width: 480px;
 	height: auto;
 }
-
 }
